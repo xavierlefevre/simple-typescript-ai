@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/xavierlefevre/simple-typescript-ai.git",
   "author": "xavierlefevre <xavier.lefevre@me.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/numjs": "^0.16.7"
+  }
 }
